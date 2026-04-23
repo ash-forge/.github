@@ -5,7 +5,7 @@
 The modular AI ecosystem that adapts to you, not the other way around.
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Discord](https://img.shields.io/badge/discord-join-7289da.svg)](https://discord.gg/ash-forge)
+[![Discord](https://img.shields.io/badge/discord-join-7289da.svg)](https://discord.gg/DCYC2fFQQ6-forge)
 [![Models](https://img.shields.io/badge/models-20%2B-green.svg)](https://ollama.com/ssfdre38)
 [![Website](https://img.shields.io/badge/website-ash--forge.com-blue)](https://ash-forge.com)
 
@@ -195,7 +195,7 @@ ash-research:academic
 ## 🤝 Community
 
 ### Get Involved
-- 💬 [Join Discord](https://discord.gg/ash-forge)
+- 💬 [Join Discord](https://discord.gg/DCYC2fFQQ6-forge)
 - 🐛 [Report Issues](https://github.com/ash-forge/ash-docs/issues)
 - 🎨 [Share Models](https://github.com/ash-forge/forge-models)
 - 📖 [Improve Docs](https://github.com/ash-forge/ash-docs)
@@ -258,7 +258,7 @@ All models based on Google Gemma 4 (Apache 2.0 licensed).
 - **Documentation:** https://github.com/ash-forge/ash-docs
 - **Ollama Models:** https://ollama.com/ssfdre38
 - **Hugging Face:** https://huggingface.co/ash-forge
-- **Discord:** https://discord.gg/ash-forge
+- **Discord:** https://discord.gg/DCYC2fFQQ6-forge
 - **Email:** contact@ash-forge.com
 
 ---
@@ -269,6 +269,6 @@ All models based on Google Gemma 4 (Apache 2.0 licensed).
 
 *Stop fitting into AI. Build your own.*
 
-[Get Started](https://github.com/ash-forge/ash-docs) • [Discord](https://discord.gg/ash-forge) • [Models](https://ollama.com/ssfdre38) • [Docs](https://github.com/ash-forge/ash-docs)
+[Get Started](https://github.com/ash-forge/ash-docs) • [Discord](https://discord.gg/DCYC2fFQQ6-forge) • [Models](https://ollama.com/ssfdre38) • [Docs](https://github.com/ash-forge/ash-docs)
 
 </div>
