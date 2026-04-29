@@ -6,7 +6,7 @@ The modular AI ecosystem that adapts to you, not the other way around.
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Discord](https://img.shields.io/badge/discord-join-7289da.svg)](https://discord.gg/DCYC2fFQQ6-forge)
-[![Models](https://img.shields.io/badge/models-20%2B-green.svg)](https://ollama.com/ssfdre38)
+[![Models](https://img.shields.io/badge/models-20%2B-green.svg)](https://ollama.com/ash-forge)
 [![Website](https://img.shields.io/badge/website-ash--forge.com-blue)](https://ash-forge.com)
 
 ---
